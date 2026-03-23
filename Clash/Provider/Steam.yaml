@@ -31,4 +31,7 @@ payload:
   - DOMAIN,steamstore-a.akamaihd.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
+  - DOMAIN,cmp2-hkg1.steamserver.net
+  - DOMAIN,cmp1-tyo3.steamserver.net
+  - DOMAIN,cmp2-sgp1.steamserver.net
 
